@@ -1,28 +1,48 @@
 [{
-		"AdiSoyadi": "Prof.Dr. Mehmet İPŞİRLİ",
-		"Eposta": "mipsirli@medipol.edu.trdenemedenemeyapıyorum",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986",
-		"VerdigiDers": "Fizik"
+		"OyunAdi": "God of War",
+		"Tur": "Aksiyon,Macera,Tek Oyunculu",
+		"Plartform": "Windows,Playstation",
+		"Inceleme": "Son Derece Olumlu(8.111)",
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986"
 	},
 
 	{
-		"AdiSoyadi": "Dr.Öğr.Üye. Hande YILMAZ",
-		"Eposta": "handeyilmaz@medipol.edu.tr",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1522870/header.jpg?t=1642256171",
-		"VerdigiDers": "Yapay Zeka"
+		"OyunAdi": "Supraland Six Inches Under",
+		"Tur": "Bulmaca,Keşif,FPS",
+		"Plartform": "Windows,Playstation,Xbox",
+		"Inceleme": "Çok olumlu",
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1522870/header.jpg?t=1642256171"
 	},
 
 	{
-		"AdiSoyadi": "Muhammet ÇAĞATAY",
-		"Eposta": "muhammet@medipol.edu.tr",
-		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
-		"VerdigiDers": "Kotlin ile İleri Android Programlama"
+		"OyunAdi": "Sid Meier’s Civilization VI",
+		"Tur": "Strateji,Tarihsel,Sıra Tabanlı",
+		"Plartform": "Windows,macOS",
+		"Inceleme": "Çok olumlu(140.652)",
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg?t=1636653176"
+	},
+	
+	{
+		"OyunAdi": "Red Dead Redemption 2",
+		"Tur": "Açık Dünya,Macera,Vahşi Batı",
+		"Plartform": "Windows,Playstation,Xbox",
+		"Inceleme": "Çok olumlu(214.317)",
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1618851907"
+	},
+	
+	{
+		"OyunAdi": "Mount & Blade II: Bannerlord",
+		"Tur": "Ortaçağ,Strateji,Açık Dünya,RYO",
+		"Plartform": "Windows",
+		"Inceleme": "Çok olumlu(140.933)",
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg?t=1641803125"
 	},
 
 	{
-		"AdiSoyadi": "Beyza Koyulmuş",
-		"Eposta": "beyza@medipol.edu.tr",
-		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
-		"VerdigiDers": "Mobil Yazılımlar"
+		"OyunAdi": "Farming Simulator 22",
+		"Tur": "Simülasyon,Tarım",
+		"Plartform": "Windows,Playstation,Xbox,Nintendo",
+		"Inceleme": "Olumlu(15.363)",
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg?t=1639475283"
 	}
 ]
