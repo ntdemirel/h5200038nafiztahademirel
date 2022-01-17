@@ -3,7 +3,9 @@
 		"Tur": "Aksiyon,Macera,Tek Oyunculu",
 		"Plartform": "Windows,Playstation",
 		"Inceleme": "Son Derece Olumlu(8.111)",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986"
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986",
+		"DetayResimURL":"",
+		"DetayAciklama":"bla bla bla"
 	},
 
 	{
@@ -11,7 +13,9 @@
 		"Tur": "Bulmaca,Keşif,FPS",
 		"Plartform": "Windows,Playstation,Xbox",
 		"Inceleme": "Çok olumlu",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1522870/header.jpg?t=1642256171"
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1522870/header.jpg?t=1642256171",
+		"DetayResimURL":"",
+		"DetayAciklama":"bla bla bla"
 	},
 
 	{
@@ -19,7 +23,9 @@
 		"Tur": "Strateji,Tarihsel,Sıra Tabanlı",
 		"Plartform": "Windows,macOS",
 		"Inceleme": "Çok olumlu(140.652)",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg?t=1636653176"
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg?t=1636653176",
+		"DetayResimURL":"",
+		"DetayAciklama":"bla bla bla"
 	},
 	
 	{
@@ -27,7 +33,9 @@
 		"Tur": "Açık Dünya,Macera,Vahşi Batı",
 		"Plartform": "Windows,Playstation,Xbox",
 		"Inceleme": "Çok olumlu(214.317)",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1618851907"
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1618851907",
+		"DetayResimURL":"",
+		"DetayAciklama":"bla bla bla"
 	},
 	
 	{
@@ -35,7 +43,9 @@
 		"Tur": "Ortaçağ,Strateji,Açık Dünya,RYO",
 		"Plartform": "Windows",
 		"Inceleme": "Çok olumlu(140.933)",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg?t=1641803125"
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg?t=1641803125",
+		"DetayResimURL":"",
+		"DetayAciklama":"bla bla bla"
 	},
 
 	{
@@ -43,6 +53,8 @@
 		"Tur": "Simülasyon,Tarım",
 		"Plartform": "Windows,Playstation,Xbox,Nintendo",
 		"Inceleme": "Olumlu(15.363)",
-		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg?t=1639475283"
+		"ResimURL": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg?t=1639475283",
+		"DetayResimURL":"",
+		"DetayAciklama":"bla bla bla"
 	}
 ]
